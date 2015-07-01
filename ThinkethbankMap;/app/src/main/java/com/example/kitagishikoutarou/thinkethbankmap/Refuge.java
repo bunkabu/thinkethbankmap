@@ -1,6 +1,8 @@
 package com.example.kitagishikoutarou.thinkethbankmap;
 
-
+/**
+ * Created by kitagishikoutarou on 15/06/30.
+ */
 public class Refuge {
     private String name;
     private String address;
